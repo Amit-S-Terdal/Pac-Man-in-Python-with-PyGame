@@ -1,5 +1,5 @@
 
-# 🕹️ Pac-Man in Python with PyGame !!!!!
+# 🕹️ Pac-Man in Python with PyGame !!!!
 
 Welcome to **Pac-Man** built from scratch in Python using the PyGame library! This project is a modern recreation of the classic arcade game where players navigate Pac-Man through a maze, avoiding ghosts, and collecting all the pellets to advance to the next level. 🎮
 
